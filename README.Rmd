@@ -18,11 +18,11 @@ knitr::opts_chunk$set(
 <!-- badges: start -->
 <!-- badges: end -->
 
-# The statistical packages of Zhenyu Wu lab
+# Statistical Packages Developed by Zhenyu Wu Lab
 
-- [Advanced interpretable BKMR for large data: A-BKMR](https://github.com/Guo-yi-y/A-BKMR)
+- [A-BKMR：Advanced Interpretable BKMR for Mixed Exposure Data Analysis in Large Datasets](https://github.com/Guo-yi-y/A-BKMR)
 
-- [Sensitivity analysis for causla survival mediation analysis: medsenssurv](https://github.com/Guo-yi-y/medsenssurv)
+- [medsenssurv：Sensitivity Analysis for Unmeasured Confounding in Causal Survival Mediation Analysis](https://github.com/Guo-yi-y/medsenssurv)
 
-- [Causal Mediation analysis for time fixed and time-varying mediator: causalMed](https://github.com/adayim/causalMed/tree/dev)
+- [causalMed：Causal Mediation Analysis for Time-Fixed and Time-Varying Mediators](https://github.com/adayim/causalMed/tree/dev)
 

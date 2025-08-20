@@ -3,12 +3,13 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-# 武振宇实验室的统计工作
+# The statistical packages of Zhenyu Wu lab
 
-- [可解释的大数据BKMR](https://github.com/Guo-yi-y/A-BKMR)  
+- [Advanced interpretable BKMR for large
+  data](https://github.com/Guo-yi-y/A-BKMR)
 
-- [适用于配对设计的WQS](https://github.com/Guo-yi-y/pairWQS)
+- [Sensitivity analysis for causla survival mediation
+  analysis](https://github.com/Guo-yi-y/medsenssurv)
 
-- [适用于生存中介分析的敏感性分析工具](https://github.com/Guo-yi-y/medsenssurv)
-
-## 参考文献
+- [Causal Mediation analysis for time fixed and time-varying
+  mediator](https://github.com/adayim/causalMed/tree/dev)

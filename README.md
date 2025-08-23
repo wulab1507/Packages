@@ -5,7 +5,7 @@
 
 # Statistical Packages Developed by Zhenyu Wu Lab
 
-- [A-BKMR：Advanced Interpretable BKMR for Mixed Exposure Data Analysis
+- [aBKMR：Advanced Interpretable BKMR for Mixed Exposure Data Analysis
   in Large Datasets](https://github.com/Guo-yi-y/A-BKMR)
 
 - [medsenssurv：Sensitivity Analysis for Unmeasured Confounding in
